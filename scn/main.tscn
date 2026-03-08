@@ -4,7 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://cllnbh7b8jx3p" path="res://scn/player.tscn" id="2_nq6di"]
 [ext_resource type="Script" uid="uid://dvwvl5hdrg5f3" path="res://src/Spikes.cs" id="7_315pe"]
 [ext_resource type="Texture2D" uid="uid://ctf7044d3i5o7" path="res://gfx/ui/hearts_hud.png" id="7_vnkvy"]
-[ext_resource type="Script" uid="uid://cfyknaqd1u5ae" path="res://scn/MovingPlatform.cs" id="8_315pe"]
+[ext_resource type="Script" uid="uid://cfyknaqd1u5ae" path="res://src/MovingPlatform.cs" id="8_315pe"]
 [ext_resource type="Script" uid="uid://chu37408ek35q" path="res://src/HUD.cs" id="8_n2tm1"]
 [ext_resource type="Script" uid="uid://c4btu3qak4oex" path="res://src/EndZone.cs" id="9_n2tm1"]
 [ext_resource type="Texture2D" uid="uid://w2sc64ckv6gc" path="res://gfx/ui/no_hearts_hud.png" id="9_rqnb2"]
